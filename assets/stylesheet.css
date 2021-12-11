@@ -1,0 +1,291 @@
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  }
+
+:root {
+    --coral: rgb(248, 146, 109);
+}
+
+body {
+    background-color: #f9fcfc;
+  }
+
+.header {
+      background-color: var(--coral);
+      width: 100%;
+      padding: 40px 0;
+      margin-top: auto;
+      position: top;
+  }
+
+.header nav {
+    display: inline-block;
+    width: 100%;
+    padding: 0px;
+    margin: auto;
+    font-size: 20px;
+}
+
+h1 {
+    float: left;
+    font-size: 35px;
+    width: 40%;
+    margin-left: 40px;
+}
+
+.header ul {
+    float: right;
+    width: 30%;
+}
+
+.header ul li {
+    display: inline-block;
+    margin-left: 25px;
+    text-align: right;
+    
+}
+
+a {
+    color:blueviolet;
+    text-decoration: underline;
+    font-size: 25px;
+}
+
+a:hover {
+    text-decoration-style: wavy;
+    opacity: 50%;
+}
+
+.about {
+    width: 100%;
+    padding: 40px;
+    display: inline-block;
+}
+
+.about h2 {
+    float: left;
+    width: 20%;
+    margin-left: 40px;
+    padding-top: 20px;
+}
+
+.about img {
+    max-height: 300px;
+    border: 2px solid rgb(126, 32, 145);
+    border-radius: 50%;
+    float: right;
+}
+
+.about p {
+    float: right;
+    width: 50%;
+    text-align: left;
+    padding: 20px 5px 5px 5px;
+}
+
+
+.work {
+    display: inline-block;
+    padding: 35px;
+    width: 100%;
+}
+
+.work h2 {
+    float: left;
+    width: 20%;
+    margin-left: 40px;
+    padding-top: 20px;
+}
+
+/*MAKE 1ST BOX LARGER THAN THE OTHERS!!!!!*/
+#first {
+    width: 100%;
+    background-image: url('../../Portfolio/assets/images/screencapture-shagens-github-io-New-To-Town-2021-09-17-04_01_43.png');
+    background-size: cover;
+    background-position: center;
+    /*REPLACE background img when you have pictures to display*/
+}
+
+#second {    
+    background-image: url('../../Portfolio/assets/images/screencapture-1.png');
+    background-size: cover;
+    background-position: center;}
+    /*REPLACE*/
+
+
+ #third {    
+     background-image: url('https://via.placeholder.com/500');
+    background-size: cover;
+    background-position: center;}
+    /*REPLACE*/
+
+
+#fourth {   
+    background-image: url('https://via.placeholder.com/500');
+    background-size: cover;
+    background-position: center;}
+    /*REPLACE*/
+
+
+#fifth {    
+    background-image: url('https://via.placeholder.com/500');
+    background-size: cover;
+    background-position: center;}
+    /*REPLACE*/
+
+
+.flex-container {
+    float: right;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    width: 70%;
+}
+/*boxes 2-5*/
+.flex-item {
+    width: 50%;
+    border-radius: 16px;
+    border: 2px solid blue;
+    padding: 20px 0;
+    min-height: 250px;
+    display: flex;
+    flex-direction: column;
+}
+
+.flex-item:hover {
+    color: lightgreen;
+    opacity: 50%;
+}
+
+.flex-item span {
+    margin-top: auto;
+    width: 100%;
+    background-color: transparent;
+    text-decoration: none;
+    color: blueviolet;
+    padding: 10px 5px;
+    text-align: start;
+}
+
+
+.contact {
+    background-color: var(--coral);
+    width: 100%;
+    padding: 40px 0;
+    margin-top: auto;
+    float: left;
+    position: bottom;
+}
+
+.contact h2 {
+    display: inline;
+    margin-left: 40px;
+    width: 20%;
+}
+
+.contact ul {
+    float: right;
+    width: 70%;
+}
+
+.contact ul li {
+    display: inline-block;
+    margin-left: 25px;
+}
+
+
+/*media queries--1324*/
+@media screen and (max-width: 1324px) {
+    body {
+        background-color: rgb(170, 148, 250);
+    }
+    
+    .header nav {
+        margin-left: 0;
+        max-width: 100%;
+    }
+
+    .header ul {
+        width: 50%;
+    }
+
+    .about p {
+        width: 40%;
+    }
+
+}
+
+
+
+/*848 screens*/
+@media screen and (max-width: 848px) {
+    body {background-color: tan;}
+    .header nav {
+        width: 100%;
+        margin-left: 0;
+        text-align: center;
+    }
+
+    h1 {
+        font-size: 40px;
+        width: 100%;
+        margin-left: 0;
+        text-align: center;
+    }
+
+    .header ul {
+        width: 100%;
+        float: left;
+        padding: 10px;
+    }
+
+    .header ul li {
+        margin-left: 0;
+        margin: 10px;
+    }
+
+    .about h2, .about p {
+        width: 100%;
+        float: left;
+        text-align: center;
+        margin-left: 0;
+        margin-top: 15px;
+    }
+
+    #img {
+        display: flex;
+        justify-content: center;
+        width: 100%;
+    }
+
+    .work h2 {
+        width: 100%;
+        margin-left: 0;
+        text-align: center;
+    }
+
+    .flex-container {
+        margin-top: 15px;
+        float: left;
+        width: 100%;
+    }
+
+    .contact h2 {
+        float: left;
+        width: 100%;
+        margin-top: 15px;
+        margin-left: 0;
+        text-align: center;
+
+    }
+
+    .contact ul {
+        float: left;
+        width: 100%;
+        margin-top: 15px;
+        text-align: center;
+    }
+}
