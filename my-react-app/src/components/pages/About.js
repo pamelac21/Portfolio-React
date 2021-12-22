@@ -1,5 +1,5 @@
 import React from "react";
-import pfp from "../../assets/images/portfolio-pfp.jpg"
+import pfp from "../../assets/images/picMe.jpg"
 
 const About = () => (
     <section>

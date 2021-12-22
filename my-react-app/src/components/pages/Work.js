@@ -1,6 +1,6 @@
 import React from "react";
 import budget from "../../assets/images/budget-tracker.png"
-import weather from "../../assets/images/weather-tracker.png"
+import weather from "../../assets/images/weather-dashboard.png"
 import eCommerce from "../../assets/images/ecom.jpg"
 import noteTaker from "../../assets/images/note-taker.png"
 import social from "../../assets/images/social.jpg"

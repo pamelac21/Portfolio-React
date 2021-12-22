@@ -13,7 +13,7 @@ function Portfolio() {
         switch (currentPage) {
             case 'About':
                 return <About />
-            case 'Work':
+            case 'Projects':
                 return <Work />
             case 'Contact':
                 return <ContactForm />
