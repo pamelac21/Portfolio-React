@@ -4,7 +4,7 @@ import pfp from "../../assets/images/picMe.jpg"
 const About = () => (
     <section>
         <div className="row">
-            <img src={pfp} id="pfp" className="mx-auto" alt="Shane Purgason" />
+            <img src={pfp} id="pfp" className="mx-auto" alt="Pamela Cleveland" />
         </div>
 
         <div className="about">

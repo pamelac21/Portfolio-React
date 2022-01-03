@@ -11,7 +11,7 @@ function Footer() {
                 <a href="mailto: pamelac021@gmail.com">
                     <i className="bi bi-envelope-fill" style={{ fontSize: 1.75 + 'rem' }}></i>
                 </a>
-                <a href="www.linkedin.com/in/pamela-cleveland-8494671b7">
+                <a href="https://www.linkedin.com/in/pamela-cleveland-8494671b7" target="_blank" rel="noopener noreferrer">
                     <i className="bi bi-linkedin" style={{ fontSize: 1.75 + 'rem' }}></i>
                 </a>
             </div>
