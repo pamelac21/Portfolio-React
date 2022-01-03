@@ -19,7 +19,7 @@ const Work = () => (
                     <h4>Budget Tracker</h4>
                     <p>PWA</p>
                     <a href="https://github.com/pamelac21/Budget-Tracker" target="_blank"
-                        rel="noopener noreferrer"><i class="bi bi-code-slash"></i> Source Code</a>
+                        rel="noopener noreferrer"><i class="bi bi-code"></i> Source Code</a>
                     <a href="https://polar-hollows-87169.herokuapp.com/" target="_blank"
                         rel="noopener noreferrer"><i class="bi bi-app"></i> Live Application</a>
                 </div>
@@ -31,7 +31,7 @@ const Work = () => (
                     <h4>Weather Dashboard</h4>
                     <p>Full-Stack Application</p>
                     <a href="https://github.com/pamelac21/Weather-Dashboard" target="_blank"
-                        rel="noopener noreferrer"><i class="bi bi-code-slash"></i> Source Code</a>
+                        rel="noopener noreferrer"><i class="bi bi-code"></i> Source Code</a>
                     <a href="https://pamelac21.github.io/Weather-Dashboard/" target="_blank"
                         rel="noopener noreferrer"><i class="bi bi-app"></i> Live Application</a>
                 </div>
@@ -43,7 +43,7 @@ const Work = () => (
                     <h4>E-Commerce Back-End</h4>
                     <p>ORM</p>
                     <a href="https://github.com/pamelac21/E-commerce" target="_blank"
-                        rel="noopener noreferrer"><i class="bi bi-code-slash"></i> Source Code</a>
+                        rel="noopener noreferrer"><i class="bi bi-code"></i> Source Code</a>
                 </div>
             </div>
             {/* Note Taker */}
@@ -53,7 +53,7 @@ const Work = () => (
                     <h4>Note Taker</h4>
                     <p>Express.js</p>
                     <a href="https://github.com/pamelac21/Note-Taker" target="_blank"
-                        rel="noopener noreferrer"><i class="bi bi-code-slash"></i> Source Code</a>
+                        rel="noopener noreferrer"><i class="bi bi-code"></i> Source Code</a>
                     <a href="https://salty-chamber-17307.herokuapp.com/" target="_blank"
                         rel="noopener noreferrer"><i class="bi bi-app"></i> Live Application</a>
                 </div>
@@ -65,7 +65,7 @@ const Work = () => (
                     <h4>Social Network API</h4>
                     <p>MongoDB</p>
                     <a href="https://github.com/pamelac21/Social-Network-API" target="_blank"
-                        rel="noopener noreferrer"><i class="bi bi-code-slash"></i> Source Code</a>
+                        rel="noopener noreferrer"><i class="bi bi-code"></i> Source Code</a>
                 </div>
             </div>
             {/* New To Town */}
@@ -75,7 +75,7 @@ const Work = () => (
                     <h4>New To Town</h4>
                     <p>Server Side APIs</p>
                     <a href="https://github.com/pamelac21/Project-1-APIs" target="_blank"
-                        rel="noopener noreferrer"><i class="bi bi-code-slash"></i> Source Code</a>
+                        rel="noopener noreferrer"><i class="bi bi-code"></i> Source Code</a>
                     <a href="https://shagens.github.io/New-To-Town/" target="_blank"
                         rel="noopener noreferrer"><i class="bi bi-app"></i> Live Application</a>
                 </div>
