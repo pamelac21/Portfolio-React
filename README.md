@@ -16,7 +16,7 @@ A single `Footer` component that appears on multiple pages
 
 [Link to Deployed Site](https://pamelac21.github.io/Portfolio-React/)
 
-![ss portfolio](https://user-images.githubusercontent.com/87335354/147909631-a9dcd59a-88ed-46fa-afe2-4479790e4b6e.png)
+![ss portfolio](https://user-images.githubusercontent.com/87335354/147909631-a9dcd59a-88ed-46fa-afe2-4479790e4b6e.png){:height="50%" width="50%"}
 
 ![Portfolio](https://user-images.githubusercontent.com/87335354/147909700-3d79fbf6-1645-41a0-949a-3954b3f4bc83.gif)
 
