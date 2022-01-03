@@ -1,5 +1,6 @@
 # Portfolio-React
 
+
 ## Description
 
 A single-page application portfolio for a web developer including: 
@@ -12,6 +13,7 @@ A single `Project` component that will be used multiple times in the Portfolio s
 
 A single `Footer` component that appears on multiple pages
 
+
 ## Deployed App
 
 [Link to Deployed Site](https://pamelac21.github.io/Portfolio-React/)
@@ -19,6 +21,16 @@ A single `Footer` component that appears on multiple pages
 ![ss portfolio](https://user-images.githubusercontent.com/87335354/147909631-a9dcd59a-88ed-46fa-afe2-4479790e4b6e.png){:height="50%" width="50%"}
 
 ![Portfolio](https://user-images.githubusercontent.com/87335354/147909700-3d79fbf6-1645-41a0-949a-3954b3f4bc83.gif)
+
+
+## Installation and Setup Instructions
+
+1. Installation: `npm install`
+
+2. In the project directory, you can run: `npm start`
+
+Runs the app in the development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 
 ## Contributing 
