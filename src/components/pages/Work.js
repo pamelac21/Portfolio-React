@@ -2,7 +2,8 @@ import React from "react";
 import budget from "../../assets/images/budget-tracker.png"
 import weather from "../../assets/images/weather-dashboard.png"
 import eCommerce from "../../assets/images/ecom.jpg"
-import noteTaker from "../../assets/images/note-taker.png"
+//import noteTaker from "../../assets/images/note-taker.png"
+import healthApp from "../../assets/images/health.png"
 import social from "../../assets/images/social.jpg"
 import newToTown from "../../assets/images/new-to-town.png"
 
@@ -46,15 +47,15 @@ const Work = () => (
                         rel="noopener noreferrer"><i class="bi bi-code"></i> Source Code</a>
                 </div>
             </div>
-            {/* Note Taker */}
+            {/* PROJECT 3 */}
             <div className="project-items col-xl-4 col-sm-8">
-                <img src={noteTaker} alt="note-taker"/>
+                <img src={healthApp} alt="note-taker"/>
                 <div className="image-text">
-                    <h4>Note Taker</h4>
-                    <p>Express.js</p>
-                    <a href="https://github.com/pamelac21/Note-Taker" target="_blank"
+                    <h4>Health Care App</h4>
+                    <p>MERN</p>
+                    <a href="https://github.com/crhodes111/Healthcare-Project-3" target="_blank"
                         rel="noopener noreferrer"><i class="bi bi-code"></i> Source Code</a>
-                    <a href="https://salty-chamber-17307.herokuapp.com/" target="_blank"
+                    <a href="https://quiet-dawn-07208.herokuapp.com/" target="_blank"
                         rel="noopener noreferrer"><i class="bi bi-app"></i> Live Application</a>
                 </div>
             </div>
