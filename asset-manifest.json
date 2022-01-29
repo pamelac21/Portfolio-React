@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/Portfolio-React/static/css/main.8851d5ce.chunk.css",
-    "main.js": "/Portfolio-React/static/js/main.f6b8c0d6.chunk.js",
-    "main.js.map": "/Portfolio-React/static/js/main.f6b8c0d6.chunk.js.map",
+    "main.js": "/Portfolio-React/static/js/main.f95042c1.chunk.js",
+    "main.js.map": "/Portfolio-React/static/js/main.f95042c1.chunk.js.map",
     "runtime-main.js": "/Portfolio-React/static/js/runtime-main.843b0297.js",
     "runtime-main.js.map": "/Portfolio-React/static/js/runtime-main.843b0297.js.map",
     "static/css/2.323589aa.chunk.css": "/Portfolio-React/static/css/2.323589aa.chunk.css",
@@ -14,7 +14,7 @@
     "static/css/2.323589aa.chunk.css.map": "/Portfolio-React/static/css/2.323589aa.chunk.css.map",
     "static/css/main.8851d5ce.chunk.css.map": "/Portfolio-React/static/css/main.8851d5ce.chunk.css.map",
     "static/js/2.37a9f0bd.chunk.js.LICENSE.txt": "/Portfolio-React/static/js/2.37a9f0bd.chunk.js.LICENSE.txt",
-    "static/media/Resume.31d6cfe0.pdf": "/Portfolio-React/static/media/Resume.31d6cfe0.pdf",
+    "static/media/Resume.818234c8.pdf": "/Portfolio-React/static/media/Resume.818234c8.pdf",
     "static/media/bootstrap-icons.css": "/Portfolio-React/static/media/bootstrap-icons.38c4d249.woff",
     "static/media/budget-tracker.ccc28a01.png": "/Portfolio-React/static/media/budget-tracker.ccc28a01.png",
     "static/media/ecom.3f07b225.jpg": "/Portfolio-React/static/media/ecom.3f07b225.jpg",
@@ -30,6 +30,6 @@
     "static/css/2.323589aa.chunk.css",
     "static/js/2.37a9f0bd.chunk.js",
     "static/css/main.8851d5ce.chunk.css",
-    "static/js/main.f6b8c0d6.chunk.js"
+    "static/js/main.f95042c1.chunk.js"
   ]
 }
