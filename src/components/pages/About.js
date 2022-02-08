@@ -10,7 +10,7 @@ const About = () => (
         <div className="about">
             <h1>Hi, I'm Pamela</h1>
             <p>
-                My name is Pamela Cleveland. I am a MERN Stack web developer from North Carolina. I enjoy creating interactive applications that everyone can use and enjoy. I am a hard-working, detail-oriented Software Developer passionate about learning, researching and writing code.
+                I am a Full stack web developer leveraging a background in psychology and customer service to provide unique perspectives on how end-users interact with websites and software platforms. Eearned a certificate in Full Stack Web Development from the UNC Charlotte Coding Boot Camp. Innovative problem-solver who is passionate about developing apps with a focus on mobile-first design and development. Strengths in creativity, teamwork, organization, and building projects from ideation to execution. I am a hard-working, detail-oriented Software Developer passionate about learning, researching and writing code.
             </p>
         </div>
     </section>
