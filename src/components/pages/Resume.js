@@ -22,7 +22,7 @@ const Resume = () => (
             </div>
         </div>
         <button className="btn btn-lg">
-            <a href={resume} download="PamelaResume">Download Resume</a>
+            <a href={resume} download="PamelaResume"><i class="bi bi-download"></i>  Download Resume</a>
         </button>
     </section>
 )
