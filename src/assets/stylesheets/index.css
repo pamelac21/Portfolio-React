@@ -3,7 +3,7 @@
 @import 'https://fonts.googleapis.com/css?family=Source+Sans+Pro:700';
 
 :root {
-  --primary-color: #5b2088;
+  --primary-color: #4b0082;
   --secondary-color: #25d4ac;
   --card-back-text: #BFB7B6;
   --anchor-color: #2b74d4;
@@ -316,7 +316,7 @@ footer i:hover {
 }
 
 @media (max-width: 770px) {
-  .skills-wrapper {
+ .skills-wrapper {
     flex-direction: column;
   }
 
