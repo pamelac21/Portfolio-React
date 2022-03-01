@@ -30,14 +30,16 @@ const Work = () => (
                         rel="noopener noreferrer"><i class="bi bi-app"></i> Live Application</a>
                 </div>
             </div>
-            {/* E-Commerce Back-End */}
+            {/* Book Search Engine */}
             <div className="project-items col-xl-4 col-sm-8">
-                <img src={eCommerce} alt="computer"/>
+                <img src={books} alt="some books"/>
                 <div className="image-text">
-                    <h4>E-Commerce Back-End</h4>
-                    <p>SQL - Refactor</p>
-                    <a href="https://github.com/pamelac21/E-commerce" target="_blank"
+                    <h4>Book Search Engine</h4>
+                    <p>MERN - Refactor</p>
+                    <a href="https://github.com/pamelac21/Book-Search-Engine" target="_blank"
                         rel="noopener noreferrer"><i class="bi bi-code"></i> Source Code</a>
+                    <a href="https://limitless-sea-64444.herokuapp.com/" target="_blank"
+                        rel="noopener noreferrer"><i class="bi bi-app"></i> Live Application</a>
                 </div>
             </div>
             {/* PROJECT 3 */}
@@ -62,16 +64,14 @@ const Work = () => (
                         rel="noopener noreferrer"><i class="bi bi-code"></i> Source Code</a>
                 </div>
             </div>
-            {/* Book Search Engine */}
+            {/* E-Commerce Back-End */}
             <div className="project-items col-xl-4 col-sm-8">
-                <img src={books} alt="some books"/>
+                <img src={eCommerce} alt="computer"/>
                 <div className="image-text">
-                    <h4>Book Search Engine</h4>
-                    <p>MERN - Refactor</p>
-                    <a href="https://github.com/pamelac21/Book-Search-Engine" target="_blank"
+                    <h4>E-Commerce Back-End</h4>
+                    <p>SQL - Refactor</p>
+                    <a href="https://github.com/pamelac21/E-commerce" target="_blank"
                         rel="noopener noreferrer"><i class="bi bi-code"></i> Source Code</a>
-                    <a href="https://limitless-sea-64444.herokuapp.com/" target="_blank"
-                        rel="noopener noreferrer"><i class="bi bi-app"></i> Live Application</a>
                 </div>
             </div>
             {/* Budget Tracker */}
