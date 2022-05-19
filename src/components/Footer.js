@@ -15,7 +15,10 @@ function Footer() {
                 <a href="https://www.linkedin.com/in/pamela-cleveland-8494671b7" target="_blank" rel="noopener noreferrer">
                     <i className="bi bi-linkedin" style={{ fontSize: 1.75 + 'rem' }}></i>
                 </a>
+                <p>pamelac021@gmail.com</p>
             </div>
+
+            
         </footer>
     )
 }

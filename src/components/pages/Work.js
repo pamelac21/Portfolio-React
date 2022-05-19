@@ -23,7 +23,7 @@ const Work = () => (
                 <img src={techblog} alt="blogging" />
                 <div className="image-text">
                     <h4>Tech Blog</h4>
-                    <p>SQL - Sole Author</p>
+                    <p>SQL - Sole Author (A CMS-style blog site)</p>
                     <a href="https://github.com/pamelac21/Tech-Blog" target="_blank"
                         rel="noopener noreferrer"><i class="bi bi-code"></i> Source Code</a>
                     <a href="https://secure-sands-16724.herokuapp.com/" target="_blank"
@@ -35,7 +35,7 @@ const Work = () => (
                 <img src={books} alt="some books"/>
                 <div className="image-text">
                     <h4>Book Search Engine</h4>
-                    <p>MERN - Refactor</p>
+                    <p>MERN - Refactor (A Google Books API search engine built with a RESTful API, refactored to be a GraphQL API built with Apollo Server)</p>
                     <a href="https://github.com/pamelac21/Book-Search-Engine" target="_blank"
                         rel="noopener noreferrer"><i class="bi bi-code"></i> Source Code</a>
                     <a href="https://limitless-sea-64444.herokuapp.com/" target="_blank"
@@ -47,7 +47,7 @@ const Work = () => (
                 <img src={healthApp} alt="note-taker"/>
                 <div className="image-text">
                     <h4>Health Care App</h4>
-                    <p>MERN - Back-End/Authentication</p>
+                    <p>MERN - Back-End/Authentication (A simple viewer app for managing the day to day activities for family)</p>
                     <a href="https://github.com/crhodes111/Healthcare-Project-3" target="_blank"
                         rel="noopener noreferrer"><i class="bi bi-code"></i> Source Code</a>
                     <a href="https://quiet-dawn-07208.herokuapp.com/" target="_blank"
@@ -59,7 +59,7 @@ const Work = () => (
                 <img src={social} alt="social-network"/>
                 <div className="image-text">
                     <h4>Social Network API</h4>
-                    <p>MongoDB - Sole Author</p>
+                    <p>MongoDB - Sole Author (An API for a social network web app)</p>
                     <a href="https://github.com/pamelac21/Social-Network-API" target="_blank"
                         rel="noopener noreferrer"><i class="bi bi-code"></i> Source Code</a>
                 </div>
@@ -69,7 +69,7 @@ const Work = () => (
                 <img src={eCommerce} alt="computer"/>
                 <div className="image-text">
                     <h4>E-Commerce Back-End</h4>
-                    <p>SQL - Refactor</p>
+                    <p>SQL - Refactor (Configuring Express.js API to use Sequelize to interact with a MySQL database.)</p>
                     <a href="https://github.com/pamelac21/E-commerce" target="_blank"
                         rel="noopener noreferrer"><i class="bi bi-code"></i> Source Code</a>
                 </div>
@@ -79,7 +79,7 @@ const Work = () => (
                 <img src={budget} alt="budget-tracker"/>
                 <div className="image-text">
                     <h4>Budget Tracker</h4>
-                    <p>NoSQL - Refactor</p>
+                    <p>NoSQL - Refactor (A budget tracker with offline functionality.)</p>
                     <a href="https://github.com/pamelac21/Budget-Tracker" target="_blank"
                         rel="noopener noreferrer"><i class="bi bi-code"></i> Source Code</a>
                     <a href="https://polar-hollows-87169.herokuapp.com/" target="_blank"
