@@ -14,6 +14,20 @@ A single `Project` component that will be used multiple times in the Portfolio s
 A single `Footer` component that appears on multiple pages
 
 
+
+
+## Table of Contents
+
+- [Installation](#installation)
+- [Usage](#usage)
+- [Deployed Site](#deployed-site)
+- [Tech Used](#tech-used)
+- [Contact](#contact)
+- [License](#license)
+- [Contributing](#contributing)
+
+
+
 ## Deployed App
 
 [Link to Deployed Site](https://pamelac21.github.io/Portfolio-React/)
