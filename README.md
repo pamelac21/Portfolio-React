@@ -32,7 +32,7 @@ A single `Footer` component that appears on multiple pages
 
 [Link to Deployed Site](https://pamelac21.github.io/Portfolio-React/)
 
-<img src="https://user-images.githubusercontent.com/87335354/147909631-a9dcd59a-88ed-46fa-afe2-4479790e4b6e.png" width="500" height="500">
+<img src="https://user-images.githubusercontent.com/87335354/147909631-a9dcd59a-88ed-46fa-afe2-4479790e4b6e.png" width="500" height="300">
 
 ![Portfolio](https://user-images.githubusercontent.com/87335354/147909700-3d79fbf6-1645-41a0-949a-3954b3f4bc83.gif)
 
