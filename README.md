@@ -38,3 +38,8 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 [Pamela](https://github.com/pamelac21)[![GitHub](https://img.shields.io/badge/--181717?logo=github&logoColor=ffffff)](https://github.com/)
 
 [Email me](pamelac021@gmail.com)
+
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
