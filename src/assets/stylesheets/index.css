@@ -316,6 +316,9 @@ footer i:hover {
   .project-items {
     width: 80vw !important;
   }  
+  .image-text p {
+    font-size: 1rem;
+  }
 }
 
 @media (max-width: 770px) {

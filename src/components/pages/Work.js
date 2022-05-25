@@ -35,7 +35,7 @@ const Work = () => (
                 <img src={books} alt="some books"/>
                 <div className="image-text">
                     <h4>Book Search Engine</h4>
-                    <p>MERN - Refactor (A Google Books API search engine built with a RESTful API, refactored to be a GraphQL API built with Apollo Server)</p>
+                    <p>MERN - Refactor (RESTful API, refactored to be a GraphQL API built with Apollo Server)</p>
                     <a href="https://github.com/pamelac21/Book-Search-Engine" target="_blank"
                         rel="noopener noreferrer"><i class="bi bi-code"></i> Source Code</a>
                     <a href="https://limitless-sea-64444.herokuapp.com/" target="_blank"
