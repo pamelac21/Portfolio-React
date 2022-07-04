@@ -13,11 +13,11 @@
   font-family: "Lato", Arial, Helvetica, sans-serif;
 }
 
-
-.portfolio {
+/*
+.portfolio {}
 /*  background-image: url(../images/Pngtree.jpg); */
-/*  background-image: url(../images/home-page.jpg); /**/
-}
+/*  background-image: url(../images/home-page.jpg); */
+
 
 .container {
   margin-top: 3rem;
@@ -117,7 +117,7 @@ backdrop-filter: blur(10px); */
   height: 100%;
   object-fit: cover;
   /*additions when hover is removed*/
-  filter: blur(3px) brightness(40%);
+  filter: blur(3px) brightness(30%);
 }
 
 .image-text {
