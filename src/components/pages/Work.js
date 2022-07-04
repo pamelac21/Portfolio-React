@@ -23,7 +23,7 @@ const Work = () => (
                 <img src={techblog} alt="blogging" />
                 <div className="image-text">
                     <h4>Tech Blog</h4>
-                    <p>SQL - Sole Author (A CMS-style blog site)</p>
+                    <p>SQL - Sole Author (A CMS-style blog site similar to a WordPress site, where devs can publish their blog posts and comment on other devs’ posts)</p>
                     <a href="https://github.com/pamelac21/Tech-Blog" target="_blank"
                         rel="noopener noreferrer"><i class="bi bi-code"></i> Source Code</a>
                     <a href="https://secure-sands-16724.herokuapp.com/" target="_blank"
