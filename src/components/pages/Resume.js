@@ -14,6 +14,9 @@ const Resume = () => (
         <div className="skills-wrapper">
             <div className="skills">
                 <ul>
+                <li><a href="https://www.credly.com/badges/d484a158-8c89-42c4-ae0b-15d3e196207f/public_url" target="_blank" rel="noopener noreferrer"><img src={badge} alt="UNCC coding badge" /></a>
+                        </li>
+                    <br />
                     <li>Git</li>
                     <li>MERN</li>
                     <li>MySQL</li>
@@ -32,8 +35,7 @@ const Resume = () => (
                     <li>Responsive Design</li>
                     <li>Agile</li>  
                     <li>HTML/ CSS/ JavaScript</li>
-                    <li><a href="https://www.credly.com/badges/d484a158-8c89-42c4-ae0b-15d3e196207f/public_url" target="_blank" rel="noopener noreferrer"><img src={badge} alt="UNCC coding badge" /></a>
-                        </li>
+
                 </ul>
             </div>
         </div>
