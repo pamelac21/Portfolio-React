@@ -58,6 +58,7 @@ p {
 }
 
 /* NAVBAR */
+
 #nav {
   height: 75px;
 /**/  background-color: var(--primary-color); /**/
@@ -111,9 +112,14 @@ p {
   width: 23.438rem;
   height: 12.5rem;
   border: 2px solid black;
-  margin: 1rem;
+  margin: 2rem;
   padding: 0 !important;
   position: relative;
+  transition: transform .15s;
+}
+
+.project-items:hover {
+  transform: scale(1.13);
 }
 
 .projects {
@@ -125,7 +131,7 @@ p {
   height: 100%;
   object-fit: cover;
   /*additions when hover is removed*/
-  filter: blur(3px) brightness(30%);
+  filter: blur(3px) brightness(40%);
 }
 
 .image-text {
@@ -168,6 +174,7 @@ p {
 } */
 
 /* Contact */
+
 #contact-form {
   padding-left: 10%;
   padding-right: 10%;
@@ -186,7 +193,7 @@ p {
 
 #resume .btn{
   background-color: var(--primary-color);
-  transition: .3s; 
+  transition: .3s;
 }
 
 #resume a {
@@ -231,6 +238,7 @@ p {
 }
 
 /* FOOTER */
+
 footer h3 {
   font-weight: bold;
   font-size: 1.8rem;
