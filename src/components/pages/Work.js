@@ -20,7 +20,7 @@ const Work = () => (
 
             {/* Tech Blog */}
             <div className="project-items col-xl-4 col-sm-8">
-                <img src={techblog} alt="blogging" />
+                <img src={techblog} alt="blogging" loading="lazy" />
                 <div className="image-text">
                     <h4>Tech Blog</h4>
                     <p>SQL - Sole Author (A CMS-style blog site similar to a WordPress site where devs can connect with each other)</p>
@@ -32,7 +32,7 @@ const Work = () => (
             </div>
             {/* Book Search Engine */}
             <div className="project-items col-xl-4 col-sm-8">
-                <img src={books} alt="some books"/>
+                <img src={books} alt="some books" loading="lazy"/>
                 <div className="image-text">
                     <h4>Book Search Engine</h4>
                     <p>MERN - Refactor (RESTful API, refactored to be a GraphQL API built with Apollo Server)</p>
@@ -44,7 +44,7 @@ const Work = () => (
             </div>
             {/* PROJECT 3 */}
             <div className="project-items col-xl-4 col-sm-8">
-                <img src={healthApp} alt="note-taker"/>
+                <img src={healthApp} alt="note-taker" loading="lazy"/>
                 <div className="image-text">
                     <h4>Health Care App</h4>
                     <p>MERN - Back-End/Authentication (A simple viewer app for managing the day to day activities for family)</p>
@@ -56,7 +56,7 @@ const Work = () => (
             </div>
             {/* Social Network API */}
             <div className="project-items col-xl-4 col-sm-8">
-                <img src={social} alt="social-network"/>
+                <img src={social} alt="social-network" loading="lazy"/>
                 <div className="image-text">
                     <h4>Social Network API</h4>
                     <p>MongoDB - Sole Author (An API for a social network web app)</p>
@@ -66,7 +66,7 @@ const Work = () => (
             </div>
             {/* E-Commerce Back-End */}
             <div className="project-items col-xl-4 col-sm-8">
-                <img src={eCommerce} alt="computer"/>
+                <img src={eCommerce} alt="computer" loading="lazy"/>
                 <div className="image-text">
                     <h4>E-Commerce Back-End</h4>
                     <p>SQL - Refactor (Configuring Express.js API to use Sequelize to interact with a MySQL database.)</p>
@@ -76,7 +76,7 @@ const Work = () => (
             </div>
             {/* Budget Tracker */}
             <div className="project-items col-xl-4 col-sm-8">
-                <img src={budget} alt="budget-tracker"/>
+                <img src={budget} alt="budget-tracker" loading="lazy"/>
                 <div className="image-text">
                     <h4>Budget Tracker</h4>
                     <p>NoSQL - Refactor (A budget tracker with offline functionality.)</p>

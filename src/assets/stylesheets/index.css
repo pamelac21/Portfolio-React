@@ -3,10 +3,13 @@
 @import 'https://fonts.googleapis.com/css?family=Source+Sans+Pro:700';
 
 :root {
-  --primary-color: rgb(75, 0, 130);
+  /* --primary-color: rgb(75, 0, 130); */
+  /* --primary-color: #4285f4; */
+  --primary-color: #6E07F3;
   --secondary-color: #25d4ac;
-  --card-back-text: #BFB7B6;
-  --anchor-color: #2b74d4;
+  --third-color: rgb(33, 35, 37);
+  --card-back-text: rgba(255, 255, 255, 0.904);
+  --anchor-color: #25d4ac;
 }
 
 * {
@@ -15,8 +18,9 @@
 
 
 .portfolio {
+  background-color: var(--third-color);
   /* background-color: #6E07F3; */
-  background-image: url(../images/Pngtree.jpg);
+  /* background-image: url(../images/Pngtree.jpg); */
   /* background-image: url(../images/home-page.jpg); */
 }
 
@@ -41,8 +45,9 @@ main {
 .about {
   -webkit-backdrop-filter: blur(10px);
   backdrop-filter: blur(10px); 
-  background-color: rgba(255, 255, 255, 0.7);
-  color: var(--primary-color);
+  /* background-color: rgba(255, 255, 255, 0.7); */
+  background-color: var(--primary-color);
+  color: var(--card-back-text);
 
   outline-style:groove;
   outline-color: var(--primary-color);
@@ -78,11 +83,11 @@ p {
   }
 
 .nav-item li {
-  color: var(--secondary-color);
+  color: var(--third-color);
 }
 
 .nav-item span {
-  color: var(--secondary-color);
+  color: var(--third-color);
   font-size: 1.5rem;
   padding-top: 2rem;
 }
@@ -103,7 +108,7 @@ p {
 }
 
 .navActive span{
-  color: white;
+  color: var(--card-back-text);
   text-decoration: none;
 }
 
@@ -151,7 +156,7 @@ p {
 
 .image-text p {
   /*color: var(--card-back-text);*/
-  color: white;
+  color: var(--card-back-text);
   font-size: 1rem;
 }
 
@@ -162,7 +167,7 @@ p {
 }
 
 .image-text a:hover {
-  color: white;
+  color: var(--card-back-text);
 }
 /* REMOVED ( .project-items:hover ) */
 .project-items .image-text {
@@ -195,6 +200,7 @@ p {
 #resume .btn{
   background-color: var(--primary-color);
   transition: .3s;
+  margin-bottom: 30px;
 }
 
 #resume a {

@@ -9,6 +9,11 @@ import badge from "../../assets/images/coding-certificate SM.png"
 const Resume = () => (
     <section className="container" id="resume">
 
+        <button className="btn btn-lg">
+            <a href={resume} download="PamelaResume"><i class="bi bi-download"></i>  Download Resume</a>
+        </button>
+
+
         <h1>Skills</h1>
 
         <div className="skills-wrapper">
@@ -39,9 +44,7 @@ const Resume = () => (
                 </ul>
             </div>
         </div>
-        <button className="btn btn-lg">
-            <a href={resume} download="PamelaResume"><i class="bi bi-download"></i>  Download Resume</a>
-        </button>
+
         <div className="row" style={{padding: 60}}>
             <img src={working} id="working" className="mx-auto" alt="Hard at work!" />
         </div>
